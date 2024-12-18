@@ -1,0 +1,32 @@
+.box-1{
+    width: 100px;
+    height: 100px;
+    background: chocolate;
+}
+.box-2{
+    width: 100px;
+    height: 100px;
+    background: yellowgreen;
+}
+.box-3{
+    width: 100px;
+    height: 100px;
+    background: pink;
+}
+.box-4{
+    width: 100px;
+    height: 100px;
+    background: gray;
+}
+.box-5{
+    width: 100px;
+    height: 100px;
+    background: purple;
+}
+
+
+.flex {
+    display: flex;
+    height: 600px;
+    flex-wrap: wrap;
+}
